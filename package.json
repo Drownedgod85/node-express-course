@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Drownedgod85/node-express-course/issues"
   },
-  "homepage": "https://github.com/Drownedgod85/node-express-course#readme"
+  "homepage": "https://github.com/Drownedgod85/node-express-course#readme",
+  "devDependencies": {}
 }
